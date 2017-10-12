@@ -2,7 +2,7 @@
 
 **This project is still in the early stages of development. Check back for updates over the coming weeks.**
 
-**And please bear with me, I am learning Flask as I work my way through this project.**
+**...and please bear with me, I am learning Flask, Docker, and Bootstrap as I work my way through this project.**
 
 ## Summary
 
@@ -17,6 +17,5 @@ Built with Python, Flask, Bootstrap, and PostgreSQL in a Docker development envi
 ## Screenshot
 
 **Current build screenshot as of 2017-10-11**
-
-![Current Build Screenshot](https://github.com/sedelmeyer/family-photo-metatag-webapp/blob/master/screenshot.png?raw=true)
 <BR>
+![Current Build Screenshot](https://github.com/sedelmeyer/family-photo-metatag-webapp/blob/master/screenshot.png?raw=true)
